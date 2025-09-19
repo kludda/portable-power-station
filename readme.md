@@ -1,4 +1,4 @@
-# ⚡ Portable Power Station
+# :battery: Portable Power Station
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-closed-grey" alt="status: archived"/>
@@ -24,7 +24,7 @@ A DIY 3kWh/3kW 12VDC native **portable power station** made for a camper van. It
 
 ---
 
-## :ledger: Highlights
+## :bulb: Highlights
 
 - 12 VDC native. 
 - Built in DCDC for charging from alternator
