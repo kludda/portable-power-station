@@ -34,7 +34,7 @@ A DIY 3kWh/3kW 12VDC native **portable power station** made for a camper van. It
 
 ---
 
-## :ledger: About
+## :clipboard: About
 This portable power station was made within a bigger project of converting a panel van to a camper van in 2021. I wanted to keep it everything modular so I didn't want to integrate the batteries etc. into the van.
 
 At the time there were no portable power stations that could charge and discharge from/to 12 VDC in a satisfying way, so I made my own.
